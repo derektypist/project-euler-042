@@ -26,6 +26,8 @@ As a user, I expect the function `codedTriangleNumbers(1600)` to return 141.
 
 As a user, I expect the function `codedTriangleNumbers(1786)` to return 162.
 
+User Stories on function `codedTriangleNumbers(n)` taken from [FreeCodeCamp - Coding Interview Prep - Project Euler 042](https://www.freecodecamp.org/learn/coding-interview-prep/project-euler/problem-42-coded-triangle-numbers)
+
 **Information Architecture**
 
 The function `codedTriangleNumbers(n)` returns a number, where n is a number.

@@ -8,6 +8,8 @@ By converting each letter in a word to a number corresponding to its alphabetica
 
 Using words array of n-length, how many are triangle words?
 
+A [PDF File](pdf/words.pdf) containing the words is supplied.
+
 Information at [Project Euler 042](https://projecteuler.net/problem=42)
 
 ## UX

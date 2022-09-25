@@ -50,3 +50,27 @@ The function `codedTriangleNumbers(n)` returns a number, where n is a number.
 
 Allows the user to input a number in order to find the number of triangle words in the array supplied.  Performs checks on valid user input.  If the input is not valid, an error message is displayed.  Also allows the user to view the PDF File of words, which are listed in alphabetical order.  Each word is in upper case (e.g. SKY).
 
+## Technologies
+
+Uses HTML5, CSS3, JavaScript, Bootstrap 5.2.1 and Google Fonts.
+
+## Testing
+
+Ensure all user stories have been met.
+
+## Deployment
+
+Deployed on [GitHub Pages](https://derektypist.github.io/project-euler-042) at the main branch.
+
+## Credits
+
+### Content
+
+PDF File of words, taken from the Project Euler Website.
+
+The `words` array taken from [FreeCodeCamp - Project Euler 042](https://github.com/freeCodeCamp/freeCodeCamp/blob/main/curriculum/challenges/english/10-coding-interview-prep/project-euler/problem-42-coded-triangle-numbers.md)
+
+### Acknowledgements
+
+- [Project Euler](https://projecteuler.net)
+- [FreeCodeCamp](https://www.greecodecamp.org)

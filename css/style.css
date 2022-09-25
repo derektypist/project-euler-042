@@ -1,0 +1,40 @@
+/* Import Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+/* Body */
+body {
+    font-family: "Roboto", Arial, Verdana, sans-serif;
+    padding: 1rem;
+}
+
+/* Subtitle */
+h2 {
+    color: purple;
+}
+
+/* Instructions and Numbers */
+.instructions {
+    font-size: 1.25rem;
+}
+
+.numbers {
+    padding: 1.5rem;
+}
+
+/* Links */
+a {
+    text-decoration: none;
+    color: #D2386C;
+}
+
+a:hover {
+    text-decoration: none;
+    color: #34568B;
+}
+
+/* Number Information */
+#numinfo {
+    padding: 1.2rem;
+    font-size: 1.5rem;
+    color: #009B77;
+}

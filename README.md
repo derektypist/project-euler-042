@@ -73,4 +73,4 @@ The `words` array taken from [FreeCodeCamp - Project Euler 042](https://github.c
 ### Acknowledgements
 
 - [Project Euler](https://projecteuler.net)
-- [FreeCodeCamp](https://www.greecodecamp.org)
+- [FreeCodeCamp](https://www.freecodecamp.org)

@@ -45,3 +45,8 @@ User Stories on function `codedTriangleNumbers(n)` taken from [FreeCodeCamp - Co
 **Information Architecture**
 
 The function `codedTriangleNumbers(n)` returns a number, where n is a number.
+
+## Features
+
+Allows the user to input a number in order to find the number of triangle words in the array supplied.  Performs checks on valid user input.  If the input is not valid, an error message is displayed.  Also allows the user to view the PDF File of words, which are listed in alphabetical order.  Each word is in upper case (e.g. SKY).
+
